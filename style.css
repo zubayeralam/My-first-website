@@ -1,0 +1,42 @@
+<style>
+        h1{
+            color: red;
+            background-color:darkblue;
+            width: auto;
+            text-align: center;
+        }
+        h2{
+            color: rgb(184, 19, 101);
+            background-color: dodgerblue;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+            #indpendance{
+                font-size: 20px;
+                color: red;
+            }
+            .bangladesh{
+                color: greenyellow;
+                font-size: 30px;
+            }
+            .beautiful{
+                color:green;
+            }
+            .bangle{
+                background-color:white;
+            }
+            .bangle{
+                border: 5px dashed green;
+                border-radius: 10px;
+                margin: 20px 30px 40px 50px;
+                padding: 20px;
+                width: 30%;
+                display: inline-block;
+            }
+            p{
+                text-align: justify;
+                margin:1%;
+                margin-block: 20px;
+                display: inline-block;
+                font-size: x-large;
+            }
+    </style>
